@@ -23,7 +23,7 @@ By leveraging the Alpha Vantage API, StockApp enables users to access comprehens
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sarimk80/StockApp.git 
+   git clone https://github.com/CS5323-Mobile-Apps/Stock-app.git
 
 ## Technologies
 
