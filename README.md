@@ -66,3 +66,4 @@ Contributions are welcome! If you'd like to contribute to the project, follow th
 Please ensure that your contributions align with the project's coding style and standards.
 
 We appreciate your valuable contributions and efforts to make StockApp even better!
+# Stock-app
